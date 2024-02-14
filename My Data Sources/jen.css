@@ -1,0 +1,27 @@
+
+* {
+    background-color: rgb(255, 229, 188);
+
+
+}
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.name {
+        font-size: 30px;
+}
+h2 {
+    color: #1b1a1a;
+}
+
+p {
+    margin: 0;
+}
